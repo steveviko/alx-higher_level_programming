@@ -3,6 +3,7 @@
 class square for 0-square-py
 """
 
+
 class Square:
     """
     class whit private attribute size

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Matias López. <3959@holbertonschool.com>
 """
 2-is_same_class.py
 a function that returns True if the object is exactly

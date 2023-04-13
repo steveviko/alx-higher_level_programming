@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 // script that prints 3 lines
-//Using an array of string and a loop
+// Using an array of string and a loop
 
 const array = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
